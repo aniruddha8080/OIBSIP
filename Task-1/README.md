@@ -11,7 +11,7 @@ BTech CSE Student | Rai University, Ahmedabad (2024–2028)
 ---
 
 ## 🔗 Live Demo
-👉 
+👉 https://fascinating-druid-d0405c.netlify.app/
 
 ---
 
